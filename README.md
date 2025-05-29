@@ -2,7 +2,7 @@
 
 **Navitzer** is an AI-based real-time visual navigation assistance system designed to enhance environmental awareness for individuals with visual impairments and other spatial challenges. It employs object detection, semantic segmentation, and depth estimation to analyze the user's surroundings and deliver auditory feedback. 
 
-The system has evolved from an initial YOLOv8 segmentation model to a more optimized and hardware-efficient solution utilizing YOLOE segmentation in conjunction with MiDaS for monocular depth estimation. MiDaS currently serves as a temporary substitute for the Intel RealSense D421 stereo camera, which will be incorporated in future iterations for improved depth perception.
+The system has evolved from an initial YOLOv8 segmentation model to a more optimized and hardware-efficient solution utilizing YOLOE segmentation in conjunction with MiDaS for monocular depth estimation. MiDaS currently serves as a temporary substitute for the Intel RealSense D421 stereo camera, which will be incorporated in future iterations for improved depth perception. Also attached is the design files to fabricate a enclousure for the POC level hardware setup
 
 ---
 
