@@ -22,10 +22,7 @@ The system has evolved from an initial YOLOv8 segmentation model to a more optim
 
 - **Model**: YOLOv8 with segmentation head  
 - **Datasets**: COCO + Open Images V7  
-- **Challenges**:
-  - Suboptimal segmentation under real-world noise
-  - High inference latency on resource-constrained platforms
-  - No built-in support for depth estimation
+
 
 ### Phase 2: Depth Estimation Trials
 
